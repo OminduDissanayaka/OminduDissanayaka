@@ -1,24 +1,84 @@
 {
   "License_Key": [
-    "ziko-x-A7F9G4L1",
-    "ziko-x-K2P8Z1XM",
-    "ziko-x-Q3B7NV0D",
-    "ziko-x-M9L6TYC3",
-    "ziko-x-W4R2PA8N",
-    "ziko-x-J0E3UL9V",
-    "ziko-x-T6X5KQB2",
-    "ziko-x-Y1N4MC7Z",
-    "ziko-x-B8Z9FA2T",
-    "ziko-x-H3C0WLR7",
-    "ziko-x-V5J1DQ6K",
-    "ziko-x-E2M7GZX4",
-    "ziko-x-N6T3UYA5",
-    "ziko-x-C1X8LQE9",
-    "ziko-x-U9B0SKJ3",
-    "ziko-x-Z7W4MXP1",
-    "ziko-x-R3V5LBN8",
-    "ziko-x-D8K2FCY0",
-    "ziko-x-L4E6VZRM",
-    "ziko-x-F0A1XJTG"
+    {
+      "key": "ziko-x-A7F9G4L1",
+      "expired": "2025-12-31"
+    },
+    {
+      "key": "ziko-x-K2P8Z1XM",
+      "expired": "2025-11-30"
+    },
+    {
+      "key": "ziko-x-Q3B7NV0D",
+      "expired": "2025-10-15"
+    },
+    {
+      "key": "ziko-x-M9L6TYC3",
+      "expired": "2025-12-01"
+    },
+    {
+      "key": "ziko-x-W4R2PA8N",
+      "expired": "2025-09-25"
+    },
+    {
+      "key": "ziko-x-J0E3UL9V",
+      "expired": "2025-08-31"
+    },
+    {
+      "key": "ziko-x-T6X5KQB2",
+      "expired": "2025-12-05"
+    },
+    {
+      "key": "ziko-x-Y1N4MC7Z",
+      "expired": "2025-10-20"
+    },
+    {
+      "key": "ziko-x-B8Z9FA2T",
+      "expired": "2025-11-01"
+    },
+    {
+      "key": "ziko-x-H3C0WLR7",
+      "expired": "2025-10-10"
+    },
+    {
+      "key": "ziko-x-V5J1DQ6K",
+      "expired": "2025-12-10"
+    },
+    {
+      "key": "ziko-x-E2M7GZX4",
+      "expired": "2026-01-01"
+    },
+    {
+      "key": "ziko-x-N6T3UYA5",
+      "expired": "2025-11-15"
+    },
+    {
+      "key": "ziko-x-C1X8LQE9",
+      "expired": "2025-09-15"
+    },
+    {
+      "key": "ziko-x-U9B0SKJ3",
+      "expired": "2025-12-20"
+    },
+    {
+      "key": "ziko-x-Z7W4MXP1",
+      "expired": "2025-10-01"
+    },
+    {
+      "key": "ziko-x-R3V5LBN8",
+      "expired": "2025-11-25"
+    },
+    {
+      "key": "ziko-x-D8K2FCY0",
+      "expired": "2025-12-15"
+    },
+    {
+      "key": "ziko-x-L4E6VZRM",
+      "expired": "2025-09-10"
+    },
+    {
+      "key": "ziko-x-F0A1XJTG",
+      "expired": "2026-01-10"
+    }
   ]
 }
