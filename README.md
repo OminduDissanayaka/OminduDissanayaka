@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on KreedX Software Company<br>👯 I’m looking to collaborate on API Developments<br>🌱 I’m currently learning Backend Languages including Java SE, Java EE, Laravel, and Node js<br>💬 Ask me about JS, PHP, Java SE, and MySQL<br>📫 How to reach me hellow@omindu.dev
+🔭 I’m currently working on ZentryCloud Hosting Company<br>👯 I’m looking to collaborate on API Developments<br>🌱 I’m currently learning Backend Languages including Java SE, Java EE, Laravel, and Node js<br>💬 Ask me about JS, PHP, Java SE, and MySQL<br>📫 How to reach me hellow@omindu.dev
 
 
 ## 🌐 Socials:
